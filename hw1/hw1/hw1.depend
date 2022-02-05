@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643747590 source:c:\users\konst\onedrive\documents\github\otus-c-2021-12-konstantin-n\hw1\hw1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
